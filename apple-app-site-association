@@ -5,10 +5,6 @@
 			{
 				"appID": "JG46ZD4T83.com.iguojia.homelock",
 				"paths": [ "*"]
-			},
-			{
-				"appID": "473VV338ZU.com.zgpeace.UniversalLinksNew",
-				"paths": [ "*"]
 			}
 		]
 	}
